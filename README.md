@@ -76,4 +76,6 @@ Sistema desarrollado para un organismo agrícola municipal.
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/juan-gabriel-pared-63aa91384)
 
+* 🌐 [Portfolio](https://gabo4567.github.io/)
+  
 * 📧 Email: [gabrielparedok@gmail.com](mailto:gabrielparedok@gmail.com)
