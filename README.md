@@ -66,12 +66,6 @@ Sistema desarrollado para un organismo agrícola municipal.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanGabrielPared\&show_icons=true\&theme=default)
-
----
-
 ## 🤝 Connect with Me
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/juan-gabriel-pared-63aa91384)
