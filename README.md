@@ -1,16 +1,78 @@
-## Hi there 👋
+# 👨‍💻 Juan Gabriel Pared
 
-<!--
-**gabo4567/gabo4567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer | Técnico Universitario en Programación (UTN)**
+Argentina
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+* 🎓 Técnico Universitario en Programación, graduado en la **Universidad Tecnológica Nacional (UTN)**.
+* 🧑‍💻 Full Stack Developer con experiencia en **sistemas web y móviles**, orientados a resolver problemas reales.
+* 🧩 Enfoque en **arquitectura clara**, coherencia entre frontend, backend y mobile, y buenas prácticas de desarrollo.
+* 🔐 Trabajo con autenticación, gestión de roles, flujos de negocio y persistencia de datos.
+* 🚀 Abierto a oportunidades profesionales donde pueda **aportar valor, crecer y trabajar en equipo**.
+
+---
+
+## 🛠️ Core Skills
+
+### 🔧 Languages
+
+* JavaScript
+* HTML5
+* CSS3
+
+### 🧩 Frontend
+
+* React
+* Vite
+* Responsive Design
+
+### ⚙️ Backend
+
+* Node.js
+* APIs REST
+* Authentication & Authorization
+
+### 🗄️ Databases
+
+* MySQL
+* Firebase Firestore
+
+### 🛠️ Tools & Practices
+
+* Git & GitHub
+* Modular architecture
+* Clean code
+* Technical documentation
+* Basic software testing
+
+---
+
+## 📌 Featured Projects
+
+### 🌱 Sistema de Lotes – IPT (Proyecto Institucional)
+
+Sistema desarrollado para un organismo agrícola municipal.
+
+* Web app para administradores
+* Mobile app para productores
+* Gestión de usuarios, lotes, turnos y mediciones
+* Autenticación segura y control de acceso
+* Coherencia total entre web y mobile
+
+> Proyecto orientado a resolver una **necesidad real del sector productivo**.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanGabrielPared\&show_icons=true\&theme=default)
+
+---
+
+## 🤝 Connect with Me
+
+* 💼 [LinkedIn](https://www.linkedin.com)
+* 📧 Email: [juangabrielpared@gmail.com](mailto:juangabrielpared@gmail.com)
