@@ -74,5 +74,5 @@ Sistema desarrollado para un organismo agrícola municipal.
 
 ## 🤝 Connect with Me
 
-* 💼 [LinkedIn](https://www.linkedin.com)
-* 📧 Email: [juangabrielpared@gmail.com](mailto:juangabrielpared@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/)
+* 📧 Email: [gabrielparedok@gmail.com](mailto:gabrielparedok@gmail.com)
