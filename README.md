@@ -1,6 +1,7 @@
 # 👨‍💻 Juan Gabriel Pared
 
 **Frontend Developer | Especializado en UX/UI | React & React Native**
+
 Argentina
 
 ---
