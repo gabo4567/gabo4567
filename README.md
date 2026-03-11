@@ -1,18 +1,17 @@
 # 👨‍💻 Juan Gabriel Pared
 
-**Full Stack Developer | Técnico Universitario en Programación (UTN)**
+**Frontend Developer | Especializado en UX/UI | React & React Native**
 Argentina
 
 ---
 
 ## About Me
 
+* 🧑‍💻 Frontend Developer con experiencia en **aplicaciones web y móviles**, enfocadas en la experiencia de usuario (UX/UI) y diseño de interfaces funcionales e intuitivas.
 * 🎓 Técnico Universitario en Programación, graduado en la **Universidad Tecnológica Nacional (UTN)**.
-* 🧑‍💻 Full Stack Developer con experiencia en **sistemas web y móviles**, orientados a resolver problemas reales.
-* 🧩 Enfoque en **arquitectura clara**, coherencia entre frontend, backend y mobile, y buenas prácticas de desarrollo.
-* 🔐 Trabajo con autenticación, gestión de roles, flujos de negocio y persistencia de datos.
-* 🚀 Abierto a oportunidades profesionales donde pueda **aportar valor, crecer y trabajar en equipo**.
-
+* 🧩 Enfoque en arquitectura clara, coherencia entre **web y mobile**, y buenas prácticas de desarrollo frontend.
+* 🔐 Experiencia con autenticación, gestión de roles, flujos de negocio y persistencia de datos, manteniendo la consistencia entre plataformas.
+* 🚀 Abierto a oportunidades profesionales donde pueda aportar valor, crecer y **trabajar en equipo**.
 ---
 
 ## 🛠️ Core Skills
@@ -26,10 +25,12 @@ Argentina
 ### 🧩 Frontend
 
 * React
+* React Native
 * Vite
 * Responsive Design
+* UX/UI Design
 
-### ⚙️ Backend
+### ⚙️ Backend (supportive)
 
 * Node.js
 * APIs REST
@@ -38,7 +39,7 @@ Argentina
 ### 🗄️ Databases
 
 * MySQL
-* Firebase Firestore
+* Firebase
 
 ### 🛠️ Tools & Practices
 
@@ -62,7 +63,7 @@ Sistema desarrollado para un organismo agrícola municipal.
 * Autenticación segura y control de acceso
 * Coherencia total entre web y mobile
 
-> Proyecto orientado a resolver una **necesidad real del sector productivo**.
+> Proyecto orientado a resolver una **necesidad real del sector productivo**, destacando interfaces intuitivas y flujo de usuario optimizado.
 
 ---
 
