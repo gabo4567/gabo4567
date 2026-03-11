@@ -1,15 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0078D4&height=220&section=header&text=Juan%20Gabriel%20Pared&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=0078D4&height=200&section=header&text=Juan%20Gabriel%20Pared&fontSize=65&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Frontend%20Developer-0078D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-UX%2FUI%20Specialist-61DAFB?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React%20%26%20React%20Native-20232A?style=for-the-badge&logo=react" />
+  <a href="https://skillicons.dev">
+    <img src="https://img.shields.io/badge/Frontend_Developer-14304B?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/UX%2FUI_Design-0078D4?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
 </p>
 
 <p align="center">
-  📍 <b>Argentina</b> 🇦🇷
+  <img src="https://img.shields.io/badge/Argentina-🇦🇷-white?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/Available_for_Work-YES-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
 ---
