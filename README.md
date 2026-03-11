@@ -1,17 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0078D4&height=200&section=header&text=Juan%20Gabriel%20Pared&fontSize=65&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0078D4&height=200&section=header&text=Juan%20Gabriel%20Pared&fontSize=65&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://img.shields.io/badge/Frontend_Developer-14304B?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/UX%2FUI_Design-0078D4?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Argentina-🇦🇷-white?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/Argentina-%F0%9F%87%A6%F0%9F%87%B7-white?style=flat-square" /> 
   <img src="https://img.shields.io/badge/Available_for_Work-YES-brightgreen?style=flat-square" />
 </p>
 
