@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://vantezzen.github.io/banner-cards/banners/blue.svg?title=Juan%20Gabriel%20Pared&subtitle=Frontend%20Developer%20|%20React%20%26%20UX/UI" alt="Banner" width="100%" />
+  <img src="banner.png" alt="Juan Gabriel Pared - Frontend Developer" width="100%" />
 </p>
 
 <p align="center">
