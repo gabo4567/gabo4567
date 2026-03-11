@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0078D4&height=200&section=header&text=Juan%20Gabriel%20Pared&fontSize=65&animation=fadeIn&fontAlignY=40" />
+  <img src="https://vantezzen.github.io/banner-cards/banners/blue.svg?title=Juan%20Gabriel%20Pared&subtitle=Frontend%20Developer%20|%20React%20%26%20UX/UI" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Argentina-%F0%9F%87%A6%F0%9F%87%B7-white?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/Argentina-🇦🇷-white?style=flat-square" /> 
   <img src="https://img.shields.io/badge/Available_for_Work-YES-brightgreen?style=flat-square" />
 </p>
 
