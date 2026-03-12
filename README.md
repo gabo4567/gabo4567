@@ -72,7 +72,6 @@ Proyecto desarrollado para digitalizar y optimizar los procesos administrativos 
 ---
 
 <br>
-
 <h3 align="center">### 🤝 Connect with Me</h3>
 
 <p align="center">
