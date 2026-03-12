@@ -4,8 +4,7 @@
 <p align="center">
   📍 Argentina &nbsp;&nbsp;|&nbsp;&nbsp;
   💻 React & React Native &nbsp;&nbsp;|&nbsp;&nbsp;
-  🎯 UX/UI Focused &nbsp;&nbsp;|&nbsp;&nbsp;
-  🚀 Available for Work
+  🎯 UX/UI Focused
 </p>
 
 <p align="center">
