@@ -9,9 +9,15 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Frontend_Developer-14304B?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/UX%2FUI_Design-0078D4?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <a href="https://www.linkedin.com/in/juan-g-pared" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gabrielparedok@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://gabo4567.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
@@ -68,19 +74,3 @@ Proyecto desarrollado para digitalizar y optimizar los procesos administrativos 
 * 📱 **Mobile App:** Herramienta para productores con mediciones en tiempo real y solicitud de turnos
 * 🔐 **Core del sistema:** Autenticación segura, control de roles y persistencia de datos consistente
 * 🧩 **Arquitectura:** Estructura modular enfocada en escalabilidad y mantenimiento
-
----
-
-<h3 align="center">🤝 Connect with Me</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/juan-g-pared" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gabrielparedok@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://gabo4567.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-  </a>
-</p>
