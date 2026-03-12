@@ -71,7 +71,9 @@ Proyecto desarrollado para digitalizar y optimizar los procesos administrativos 
 
 ---
 
-### 🤝 Connect with Me
+<br>
+
+<h3 align="center">### 🤝 Connect with Me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-g-pared" target="_blank">
