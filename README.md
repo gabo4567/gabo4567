@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer</h3>
 
 <p align="center">
-  📍 Argentina &nbsp;&nbsp;|&nbsp;&nbsp;
+  📍 Corrientes, Argentina &nbsp;&nbsp;|&nbsp;&nbsp;
   💻 React & React Native &nbsp;&nbsp;|&nbsp;&nbsp;
   🎯 UX/UI Focused
 </p>
