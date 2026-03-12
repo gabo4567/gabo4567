@@ -27,7 +27,7 @@
 
 ### 🧑‍💻 About Me
 
-Frontend Developer apasionado por crear aplicaciones web y móviles enfocadas en la **experiencia de usuario (UX/UI)**. Mi objetivo es transformar ideas en interfaces funcionales, intuitivas y visualmente atractivas.
+Frontend Developer enfocado en el desarrollo de aplicaciones web y móviles centradas en la **experiencia de usuario (UX/UI)**. Mi objetivo es transformar ideas en interfaces funcionales, intuitivas y visualmente atractivas.
 
 * 🎓 **Técnico Universitario en Programación** — Universidad Tecnológica Nacional (UTN)
 * 🧩 Fuerte enfoque en **arquitectura limpia** y coherencia entre plataformas
