@@ -58,17 +58,16 @@ Frontend Developer apasionado por crear aplicaciones web y móviles enfocadas en
 ### 📌 Featured Projects
 
 #### 🌱 Sistema de Lotes – IPT (Proyecto Institucional)
-> *Sistema integral para un organismo agrícola municipal.*
+> *Sistema integral para la gestión de productores y lotes en un organismo agrícola municipal.*
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
-  <br>
-  <i>Visualización de actividad y consistencia entre plataformas</i>
-</p>
+Proyecto desarrollado para digitalizar y optimizar los procesos administrativos y operativos del instituto, garantizando **coherencia de datos entre plataformas**, seguridad en la autenticación y una experiencia de usuario clara para cada rol del sistema.
 
-* **Web App:** Gestión administrativa de lotes y turnos
-* **Mobile App:** Herramienta para productores con mediciones en tiempo real
-* **Core:** Autenticación segura, roles de usuario y persistencia de datos consistente
+**Principales funcionalidades:**
+
+* 🖥️ **Web App:** Gestión administrativa de lotes, turnos, productores y reportes
+* 📱 **Mobile App:** Herramienta para productores con mediciones en tiempo real y solicitud de turnos
+* 🔐 **Core del sistema:** Autenticación segura, control de roles y persistencia de datos consistente
+* 🧩 **Arquitectura:** Estructura modular enfocada en escalabilidad y mantenimiento
 
 ---
 
