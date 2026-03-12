@@ -22,3 +22,66 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
+
+---
+
+### 🧑‍💻 About Me
+
+Frontend Developer apasionado por crear aplicaciones web y móviles enfocadas en la **experiencia de usuario (UX/UI)**. Mi objetivo es transformar ideas en interfaces funcionales, intuitivas y visualmente atractivas.
+
+* 🎓 **Técnico Universitario en Programación** — Universidad Tecnológica Nacional (UTN)
+* 🧩 Fuerte enfoque en **arquitectura limpia** y coherencia entre plataformas
+* 🚀 Buscando aportar valor en equipos dinámicos y seguir creciendo profesionalmente
+
+---
+
+### 🛠️ Core Skills
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,vite,figma,nodejs,mysql,firebase,git,github" />
+  </a>
+</p>
+
+#### 🧩 Frontend
+* **React & React Native** (Mobile & Web)
+* Responsive Design & **UX/UI Principles**
+* Vite & Modern Tooling
+
+#### ⚙️ Backend & DB (Supportive)
+* **Node.js** (REST APIs)
+* Firebase (Auth, Firestore, Hosting)
+* MySQL & SQL Server
+
+---
+
+### 📌 Featured Projects
+
+#### 🌱 Sistema de Lotes – IPT (Proyecto Institucional)
+> *Sistema integral para un organismo agrícola municipal.*
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+  <br>
+  <i>Visualización de actividad y consistencia entre plataformas</i>
+</p>
+
+* **Web App:** Gestión administrativa de lotes y turnos
+* **Mobile App:** Herramienta para productores con mediciones en tiempo real
+* **Core:** Autenticación segura, roles de usuario y persistencia de datos consistente
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/juan-g-pared" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gabrielparedok@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://gabo4567.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  </a>
+</p>
