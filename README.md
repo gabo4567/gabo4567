@@ -70,10 +70,8 @@ Proyecto desarrollado para digitalizar y optimizar los procesos administrativos 
 * 🧩 **Arquitectura:** Estructura modular enfocada en escalabilidad y mantenimiento
 
 ---
-
 <br>
 <h3 align="center">### 🤝 Connect with Me</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-g-pared" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
