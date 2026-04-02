@@ -43,9 +43,9 @@ Data Analyst Jr. con formación en programación, enfocado en el análisis, proc
 ### 🛠️ Core Skills
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,vite,figma,nodejs,mysql,firebase,git,github" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" alt="Excel"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI"/>
 </p>
 
 #### 📊 Data Analysis
