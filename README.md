@@ -55,14 +55,14 @@ Data Analyst Jr. con formación en programación, enfocado en el análisis, proc
 * **Power BI** (dashboards & data visualization)
 
 #### 💻 Programming
-* JavaScript
-* Node.js
-* Git
+* **JavaScript**
+* **Node.js**
+* **Git**
 
 #### ⚙️ Databases
-* MySQL
-* SQL Server
-* Firebase
+* **MySQL**
+* **SQL Server**
+* **Firebase**
 
 ---
 
