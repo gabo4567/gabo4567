@@ -1,10 +1,10 @@
 <h1 align="center">Juan Gabriel Pared</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Data Analyst Jr.</h3>
 
 <p align="center">
   📍 Corrientes, Argentina &nbsp;&nbsp;|&nbsp;&nbsp;
-  💻 React & React Native &nbsp;&nbsp;|&nbsp;&nbsp;
-  🎯 UX/UI Focused
+  📊 SQL · Excel · Power BI &nbsp;&nbsp;|&nbsp;&nbsp;
+  💻 Programming Background
 </p>
 
 <p align="center">
@@ -32,11 +32,11 @@
 
 ### 🧑‍💻 About Me
 
-Frontend Developer enfocado en el desarrollo de aplicaciones web y móviles centradas en la **experiencia de usuario (UX/UI)**. Mi objetivo es transformar ideas en interfaces funcionales, intuitivas y visualmente atractivas.
+Data Analyst Jr. con formación en programación, enfocado en el análisis, procesamiento y visualización de datos para la toma de decisiones.
 
 * 🎓 **Técnico Universitario en Programación** — Universidad Tecnológica Nacional (UTN)
-* 🧩 Fuerte enfoque en **arquitectura limpia** y coherencia entre plataformas
-* 🚀 Buscando aportar valor en equipos dinámicos y seguir creciendo profesionalmente
+* 🧩 Base sólida en lógica, bases de datos y desarrollo de software
+* 🚀 Interesado en transformar datos en información útil y generar insights accionables
 
 ---
 
@@ -48,15 +48,20 @@ Frontend Developer enfocado en el desarrollo de aplicaciones web y móviles cent
   </a>
 </p>
 
-#### 🧩 Frontend
-* **React & React Native** (Mobile & Web)
-* Responsive Design & **UX/UI Principles**
-* Vite & Modern Tooling
+#### 📊 Data Analysis
+* **SQL** (queries, joins, aggregation)
+* **Excel** (functions, pivot tables, data cleaning)
+* **Power BI** (dashboards & data visualization)
 
-#### ⚙️ Backend & DB (Supportive)
-* **Node.js** (REST APIs)
-* Firebase (Auth, Firestore, Hosting)
-* MySQL & SQL Server
+#### 💻 Programming
+* JavaScript
+* Node.js
+* Git
+
+#### ⚙️ Databases
+* MySQL
+* SQL Server
+* Firebase
 
 ---
 
