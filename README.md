@@ -1,10 +1,10 @@
 <h1 align="center">Juan Gabriel Pared</h1>
-<h3 align="center">Data Analyst Jr.</h3>
+<h3 align="center">Data Analyst Jr. | AI Automation & Workflows</h3>
 
 <p align="center">
   📍 Corrientes, Argentina &nbsp;&nbsp;|&nbsp;&nbsp;
-  📊 SQL · Excel · Power BI &nbsp;&nbsp;|&nbsp;&nbsp;
-  💻 Programming Background
+  📊 SQL · Power BI &nbsp;&nbsp;|&nbsp;&nbsp;
+  ⚙️ Automation · APIs · Workflows
 </p>
 
 <p align="center">
@@ -32,11 +32,12 @@
 
 ### 🧑‍💻 About Me
 
-Data Analyst Jr. con formación en programación, enfocado en el análisis, procesamiento y visualización de datos para la toma de decisiones.
+Data Analyst Jr. with a programming background, focused on data analysis, processing, and workflow automation.
 
-* 🎓 **Técnico Universitario en Programación** — Universidad Tecnológica Nacional (UTN)
-* 🧩 Base sólida en lógica, bases de datos y desarrollo de software
-* 🚀 Interesado en transformar datos en información útil y generar insights accionables
+* 🎓 **University Degree in Programming** — UTN
+* 🧩 Strong foundation in logic, databases, and software development
+* ⚙️ Experience and interest in automating processes using tools like n8n and Make
+* 🚀 Focused on turning data into actionable insights and building efficient data-driven workflows
 
 ---
 
@@ -53,6 +54,11 @@ Data Analyst Jr. con formación en programación, enfocado en el análisis, proc
 * **SQL** (queries, joins, aggregation)
 * **Excel** (functions, pivot tables, data cleaning)
 * **Power BI** (dashboards & data visualization)
+
+#### 🤖 Automation & Workflows
+* Workflow automation (n8n, Make)
+* API integrations
+* Process automation with AI
 
 #### 💻 Programming
 * **JavaScript**
