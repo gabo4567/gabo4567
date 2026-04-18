@@ -4,7 +4,7 @@
 <p align="center">
   📍 Corrientes, Argentina &nbsp;&nbsp;|&nbsp;&nbsp;
   📊 SQL · Power BI &nbsp;&nbsp;|&nbsp;&nbsp;
-  ⚙️ Automation · APIs · Workflows
+  ⚙️ AI Automation · APIs · Workflows
 </p>
 
 <p align="center">
