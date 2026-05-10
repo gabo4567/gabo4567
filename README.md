@@ -44,7 +44,6 @@ Full Stack Developer Junior, enfocado en desarrollo de software, procesamiento d
 ### 🛠️ Core Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mysql,firebase,git,github" />
 </p>
 
