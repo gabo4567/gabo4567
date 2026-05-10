@@ -1,9 +1,9 @@
 <h1 align="center">Juan Gabriel Pared</h1>
-<h3 align="center">Data Analyst Jr. | AI Automation & Workflows</h3>
+<h3 align="center">Full Stack Developer Jr. | AI Automation & Workflows</h3>
 
 <p align="center">
   📍 Corrientes, Argentina &nbsp;&nbsp;|&nbsp;&nbsp;
-  📊 SQL · Power BI &nbsp;&nbsp;|&nbsp;&nbsp;
+  📊 SQL · Firebase &nbsp;&nbsp;|&nbsp;&nbsp;
   ⚙️ AI Automation · APIs · Workflows
 </p>
 
@@ -32,12 +32,12 @@
 
 ### 🧑‍💻 About Me
 
-Data Analyst Jr. with a programming background, focused on data analysis, processing, and workflow automation.
+Full Stack Developer Junior, enfocado en desarrollo de software, procesamiento de datos y automatización de flujos de trabajo.
 
-* 🎓 **University Degree in Programming** — UTN
-* 🧩 Strong foundation in logic, databases, and software development
-* ⚙️ Experience and interest in automating processes using tools like n8n and Make
-* 🚀 Focused on turning data into actionable insights and building efficient data-driven workflows
+* 🎓 **Tecnicatura Universitaria en Programación** — UTN
+* 🧠 Sólida base en lógica de programación, bases de datos y desarrollo de software
+* ⚙️ Experiencia e interés en la automatización de procesos utilizando herramientas como n8n y Make
+* 🚀 Enfocado en desarrollar soluciones eficientes y automatizar procesos para optimizar flujos de trabajo y sistemas
 
 ---
 
@@ -50,20 +50,15 @@ Data Analyst Jr. with a programming background, focused on data analysis, proces
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mysql,firebase,git,github" />
 </p>
 
-#### 📊 Data Analysis
-* **SQL** (queries, joins, aggregation)
-* **Excel** (functions, pivot tables, data cleaning)
-* **Power BI** (dashboards & data visualization)
-
-#### 🤖 Automation & Workflows
-* Workflow automation (n8n, Make)
-* API integrations
-* Process automation with AI
-
 #### 💻 Programming
 * **JavaScript**
 * **Node.js**
 * **Git**
+
+#### 🤖 Automation & Workflows
+* **Workflow automation (n8n, Make)**
+* **API integrations**
+* **Process automation with AI**
 
 #### ⚙️ Databases
 * **MySQL**
