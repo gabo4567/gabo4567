@@ -72,7 +72,7 @@ Full Stack Developer Junior, enfocado en desarrollo de software, procesamiento d
 #### 🌱 Sistema de Lotes – IPT (Proyecto Institucional)
 > *Sistema integral para la gestión de productores y lotes en un organismo agrícola municipal.*
 
-Proyecto desarrollado para digitalizar y optimizar los procesos administrativos y operativos del instituto, garantizando **coherencia de datos entre plataformas**, seguridad en la autenticación y una experiencia de usuario clara para cada rol del sistema.
+Proyecto desarrollado con enfoque full stack para digitalizar y optimizar los procesos administrativos y operativos del instituto, integrando frontend, backend y base de datos en un sistema unificado, con coherencia de datos entre plataformas, control de acceso y una experiencia de usuario adaptada a cada rol.
 
 **Principales funcionalidades:**
 
