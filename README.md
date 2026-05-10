@@ -45,8 +45,6 @@ Full Stack Developer Junior, enfocado en desarrollo de software, procesamiento d
 
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mysql,firebase,git,github" />
 </p>
 
