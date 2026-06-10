@@ -66,14 +66,14 @@ Full Stack Developer Junior, enfocado en desarrollo de software, procesamiento d
 
 ### 📌 Featured Projects
 
-#### 🌱 Sistema de Lotes – IPT (Proyecto Institucional)
-> *Sistema integral para la gestión de productores y lotes en un organismo agrícola municipal.*
+#### 🌱 Sistema de Gestión – IPT (Proyecto Institucional)
+> *Sistema integral para la gestión de turnos, insumos y lotes en un organismo agrícola provincial.*
 
 Proyecto desarrollado con enfoque full stack para digitalizar y optimizar los procesos administrativos y operativos del instituto, integrando frontend, backend y base de datos en un sistema unificado, con coherencia de datos entre plataformas, control de acceso y una experiencia de usuario adaptada a cada rol.
 
 **Principales funcionalidades:**
 
-* 🖥️ **Web App:** Gestión administrativa de lotes, turnos, productores y reportes
+* 🖥️ **Web App:** Gestión administrativa de turnos, insumos, lotes, productores y reportes
 * 📱 **Mobile App:** Herramienta para productores con mediciones en tiempo real y solicitud de turnos
 * 🔐 **Core del sistema:** Autenticación segura, control de roles y persistencia de datos consistente
 * 🧩 **Arquitectura:** Estructura modular enfocada en escalabilidad y mantenimiento
